@@ -1,0 +1,9 @@
+1. Use useful comments for your commits
+
+2. use branch features 
+    git checkout -b features/update-to-text-file
+    or 
+    git branch features/update-to-text-file
+    git checkout features/update-to-text-file
+
+3. collaborate effectively using Pull Requests/ Merge Request
